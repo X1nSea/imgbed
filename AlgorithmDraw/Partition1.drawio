@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T11:07:59.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.8.0" etag="W7jiaKh0IEbAeMQqhjKU" type="github"><diagram id="wH40gckcNGH1ml5ody64">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-23T11:17:01.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="I3hG6Svpm5h-0eO5qWkT" version="14.8.0" type="github">
+  <diagram id="wH40gckcNGH1ml5ody64" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mw8QCALpUm3EfZhTd_U1-1" value="&lt;h1&gt;&lt;font face=&quot;中国式手写风&quot; style=&quot;font-size: 36px&quot; color=&quot;#ff0000&quot;&gt;Partition&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mw8QCALpUm3EfZhTd_U1-2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mw8QCALpUm3EfZhTd_U1-3" value="&lt;font face=&quot;中国式手写风&quot; style=&quot;font-size: 24px&quot;&gt;V&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mw8QCALpUm3EfZhTd_U1-4" value="&lt;font face=&quot;中国式手写风&quot; style=&quot;font-size: 36px&quot;&gt;&amp;lt;v&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeColor=#000000;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mw8QCALpUm3EfZhTd_U1-5" value="&lt;font face=&quot;中国式手写风&quot; style=&quot;font-size: 36px&quot;&gt;&amp;gt;v&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeColor=#000000;fillColor=#7F00FF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="170" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mw8QCALpUm3EfZhTd_U1-6" value="&lt;font face=&quot;中国式手写风&quot; style=&quot;font-size: 30px&quot;&gt;e&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeColor=#000000;fillColor=#0A43FF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mw8QCALpUm3EfZhTd_U1-7" value="" style="triangle;whiteSpace=wrap;html=1;sketch=1;strokeColor=#000000;rotation=-89;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="250.00000000000003" width="25" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
